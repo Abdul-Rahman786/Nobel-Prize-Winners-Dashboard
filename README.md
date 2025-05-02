@@ -19,7 +19,7 @@ This Power BI project visualizes the data of Nobel Prize winners from 1901 to th
 ## Tools Used
 - Power BI Desktop
 - DAX
-- Data modeling and cleaning
+- Cleaning
 
 ## Use Case
 This dashboard can help researchers, students, and data enthusiasts explore historical trends in Nobel Prize distributions across the world.
